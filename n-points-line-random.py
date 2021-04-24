@@ -401,5 +401,5 @@ def dynamics(num_points=20, num_trials=200):
       
 if __name__ == '__main__':
     main(sys.argv)
-n-points-line-random.py
-Displaying n-points-line-random.py
+
+
