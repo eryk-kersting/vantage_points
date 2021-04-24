@@ -4,7 +4,9 @@ To run the code,
 python n_points \<num viewers> \<repulsive force> \<repulsice distance>
 
 n-points-line-random.py:  For baggage claim best configurations
+
 Usage: $ python3 n-points-line-random.py \<number of points> \<number of trials>
 
 n-points-trials.py: For inverse-square-distance central point.
+
 Usage: $ python3 n-points-.py \<number points> \<repulse_force> \<repulse_distance>
