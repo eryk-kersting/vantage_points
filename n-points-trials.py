@@ -288,5 +288,4 @@ def dynamics(num_points=4, repulse=50, repulse_d=2.1):
     
 if __name__ == '__main__':
     main(sys.argv)
-n-points-trials.py
-Displaying n-points-line-random.py.
+
