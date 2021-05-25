@@ -326,5 +326,3 @@ stack separation between lower_sep and upper_sep, then randomly chooses each vie
 previous viewer in each stack, only keeping final configuration if all viewers have LOS.
 
 """
-n-stacks-line-rand.py
-Displaying n-stacks-line-rand.py.
